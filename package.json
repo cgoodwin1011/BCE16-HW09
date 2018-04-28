@@ -1,0 +1,20 @@
+{
+  "name": "hw09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testjs.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "eslint": "^4.19.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
